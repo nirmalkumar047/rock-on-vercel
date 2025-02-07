@@ -1,2 +1,2 @@
-# rock-on-vercel
-https://rock-on-vercel.vercel.app/
+Wanna Play rock paper scissor 
+link:https://rock-on-vercel.vercel.app/
